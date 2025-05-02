@@ -1,7 +1,7 @@
 #! /bin/sh
-# Script to provide fingerprint of ssh server to users.
-# Make script executiable and run the script. Copy paste
-# the output in an email to the user, so they can confirm
+# Script to provide users with a fingerprint of the SSH server.
+# Make the script executable and run the script. Copy and paste
+# the output in an email to the user so that they can confirm
 # key fingerprint on first sign in.
 # Created by Chris Brenton at ACM for Fireside Friday on
 # 2025-05-02
