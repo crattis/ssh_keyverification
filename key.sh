@@ -6,7 +6,7 @@
 # Created by Chris Brenton at ACM for Fireside Friday on
 # 2025-05-02
 
-for publickey in /etc/ssh/*.pub
+for pubkey in /etc/ssh/*.pub
 do
    ssh-keygen -lf ${pubkey}
 done
